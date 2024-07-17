@@ -1,2 +1,5 @@
+Flask==3.0.3
+pillow==10.4.0
 pre-commit==3.7.1
 pylint==3.2.5
+python-barcode==0.15.1
