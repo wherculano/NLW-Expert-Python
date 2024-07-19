@@ -18,7 +18,7 @@ This application was developed during **[Rocketseat](https://www.rocketseat.com.
 
 1. Run the project:
     ```bash
-    $ python run_raw.py
+    $ python run.py
     ``` 
 ---
 
