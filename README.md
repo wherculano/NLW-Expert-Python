@@ -36,4 +36,8 @@ curl -X POST http://localhost:3000/create_tag \
 -d '{"product_code": "0123456789"}'
 ```
 ---
-
+### Running tests
+1. In order to run all available tests, just run:    
+    ```bash
+    $ pytest src
+    ```
