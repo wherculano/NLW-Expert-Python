@@ -41,3 +41,4 @@ curl -X POST http://localhost:3000/create_tag \
     ```bash
     $ pytest src
     ```
+[Supplementary material used at the NLW 14 event for Python technology.](https://efficient-sloth-d85.notion.site/Python-56021db9158c4c969720648c612c8204#c644efdd2fc7496ab80c0825dd7853b7)
